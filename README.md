@@ -4,7 +4,7 @@
 [![Twitter](https://img.shields.io/twitter/follow/digitalhimiko?style=social)](https://twitter.com/digitalhimiko)
 
 - Backend Engineer from Japan
-- Love Python and study DataScience hard🤪
+- Love Python and study DataScience hard
 
 # GitHub Status
 
