@@ -2,6 +2,7 @@
 
 [![Github](https://img.shields.io/github/followers/Kumamoto-Hamachi?label=Follow&style=social)](https://github.com/Kumamoto-Hamachi)
 [![Twitter](https://img.shields.io/twitter/follow/digitalhimiko?style=social)](https://twitter.com/digitalhimiko)
+[![Zenn](https://img.shields.io/badge/Zenn-Kumamoto-lightgrey?style=flat-square&logo=zenn)](https://zenn.dev/kumamoto)
 
 - Backend Engineer from Japan
 - Love Python and study DataScience hard
