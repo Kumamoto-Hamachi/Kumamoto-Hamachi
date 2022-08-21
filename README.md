@@ -1,4 +1,13 @@
-# Hi there I'm Kumamoto🐬
+# Hi there I'm Kumamoto 🍖
+
+```
+ _  __                                     _        
+| |/ /   _ _ __ ___   __ _ _ __ ___   ___ | |_ ___  
+| ' / | | | '_ ` _ \ / _` | '_ ` _ \ / _ \| __/ _ \ 
+| . \ |_| | | | | | | (_| | | | | | | (_) | || (_) |
+|_|\_\__,_|_| |_| |_|\__,_|_| |_| |_|\___/ \__\___/ 
+                                                    
+```
 
 [![Github](https://img.shields.io/github/followers/Kumamoto-Hamachi?label=Follow&style=social)](https://github.com/Kumamoto-Hamachi)
 [![Twitter](https://img.shields.io/twitter/follow/digitalhimiko?style=social)](https://twitter.com/digitalhimiko)
