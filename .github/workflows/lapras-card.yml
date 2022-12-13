@@ -1,0 +1,22 @@
+name: LAPRAS Card
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 10 * * 1" # 毎週月曜am10:00
+
+jobs:
+  update-card:
+    name: LAPRAS Card
+    runs-on: ubuntu-latest
+    steps:
+      - uses: kawamataryo/lapras-card-readme@main
+        with:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SHARE_ID: 'kumamoto3'
+          # https://lapras-card-generator.vercel.app でカスタマイズしたデザインを設定可能
+          ICON_FIRST: "#888888"
+          ICON_SECOND: "#cccccc"
+          BACKGROUND_FIRST: "#767676"
+          BACKGROUND_SECOND: "#e1e1e1"
+          LANG: "en"

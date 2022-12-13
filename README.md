@@ -1,4 +1,4 @@
-# Hi there I'm Kumamoto 🍖
+# Hi there I'm Kumamoto 🐬
 
 ```
  _  __                                     _        
@@ -15,6 +15,9 @@
 
 - Backend Engineer from Japan
 - Love Python and study DataScience hard
+
+<!--START_SECTION:lapras-card-->
+<!--END_SECTION:lapras-card-->
 
 # GitHub Status
 
