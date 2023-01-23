@@ -17,8 +17,8 @@
 - Love Python and study DataScience hard
 
 <!--START_SECTION:lapras-card-->
-<a href="https://lapras.com/public/kumamoto3" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.62&b=3.48&i=3.5&b1=%23767676&b2=%23e1e1e1&i1=%23888888&i2=%23cccccc&l=en" width="400" ></a>  
-Last Updated on 1/16/2023, 10:03:57 AM
+<a href="https://lapras.com/public/kumamoto3" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.67&b=3.48&i=3.51&b1=%23767676&b2=%23e1e1e1&i1=%23888888&i2=%23cccccc&l=en" width="400" ></a>  
+Last Updated on 1/23/2023, 10:03:34 AM
 <!--END_SECTION:lapras-card-->
 
 # GitHub Status
