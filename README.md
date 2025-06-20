@@ -123,7 +123,7 @@ print(me.say_hi())
       <img src="https://github-readme-stats.vercel.app/api?username=Kumamoto-Hamachi&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Kumamoto's GitHub Stats" />
     </td>
     <td align="center">
-      <img src="https://streak-stats.demolab.com/?user=Kumamoto-Hamachi&theme=tokyonight&hide_border=true&background=0D1117" alt="Kumamoto's GitHub Streak" />
+      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Kumamoto-Hamachi&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
     </td>
   </tr>
   <tr>
